@@ -78,31 +78,7 @@ This is a **prototype built for hackathon evaluation purposes**. It does not con
 
 ## Getting Started
 
-### Prerequisites
-- Node.js (v18 or later recommended)
-- npm
-
-### Installation
-
-\`\`\`bash
-git clone https://github.com/uniqueideas101/usma.git
-cd usma
-npm install
-\`\`\`
-
-### Running Locally
-
-\`\`\`bash
-npm run dev
-\`\`\`
-
-The application will be available at `http://localhost:5173`.
-
-### Building for Production
-
-\`\`\`bash
-npm run build
-\`\`\`
+The application will be available at https://usma-psi.vercel.app/
 
 ---
 
